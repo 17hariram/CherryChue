@@ -3,7 +3,7 @@ import { NextRequest, NextResponse } from "next/server";
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 // Set these in Vercel Dashboard → Project → Settings → Environment Variables
 const GMAIL_USER  = process.env.GMAIL_USER  || "sheemaphotos03@gmail.com";  
-const GMAIL_PASS  = process.env.GMAIL_PASS  || "SheemavsPhoto@03";   
+const GMAIL_PASS  = process.env.GMAIL_PASS  || "SheemavsPhotos@03";   
 const TO_EMAIL    = process.env.TO_EMAIL    || "cherrychue98@gmail.com";   
 const FORMSPREE_ID = process.env.FORMSPREE_ID || ""; // fallback (optional)
 
