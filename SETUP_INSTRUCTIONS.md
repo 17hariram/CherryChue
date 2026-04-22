@@ -38,7 +38,7 @@ Create `.env.local` in the project root:
 ```
 GMAIL_USER=sheemaphotos03@gmail.com
 GMAIL_PASS=SheemavsPhotos@03
-TO_EMAIL=1cherrychue98@gmail.com
+TO_EMAIL=cherrychue98@gmail.com
 ```
 
 > Remove spaces from the App Password. Never commit this file (it's in .gitignore).
@@ -110,7 +110,7 @@ Vercel auto-redeploys on every push to main.
 | Name | Value |
 |------|-------|
 | `GMAIL_USER` | `sheemaphotos03@gmail.com` |
-| `GMAIL_PASS` | `SheemavsPhotos@03` |
+| `GMAIL_PASS` | `password` |
 | `TO_EMAIL` | `cherrychue98@gmail.com` |
 
 5. Click **Deploy** → wait ~2 minutes
