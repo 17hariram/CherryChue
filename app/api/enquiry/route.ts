@@ -295,7 +295,7 @@ export async function POST(req: NextRequest) {
       {
         error:
           "We couldn't send your message right now. Please contact us directly via " +
-          "WhatsApp (+91 80728 88570) or email (sheemaphotos03@gmail.com).",
+          "WhatsApp (+91 8939215704) or email (cherrychue98@gmail.com).",
       },
       { status: 500 }
     );
